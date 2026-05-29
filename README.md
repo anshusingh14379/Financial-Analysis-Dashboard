@@ -1,5 +1,7 @@
 # 💰 Financial Analysis Dashboard | Power BI
 
+👉End-to-end Power BI project showcasing financial analysis, dashboard design, DAX, KPI reporting, and interactive data visualization.
+
 ## 📌 Project Overview
 
 The **Financial Analysis Dashboard** is an interactive Power BI project designed to analyze financial transactions, customer behavior, transaction performance, fees, taxes, and regional financial contributions. The dashboard provides a centralized view of key financial metrics and enables stakeholders to make data-driven decisions through dynamic visualizations and KPI monitoring.
