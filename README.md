@@ -179,15 +179,15 @@ Through this project, I gained practical experience in:
 
 ## 📷 Dashboard Preview
 
+## 📷 Dashboard Preview
+
 ### Overview Dashboard
 
-[Dashboard Overview](<img width="1491" height="783" alt="Overview Analysis" src="https://github.com/user-attachments/assets/5f8ec7da-0c8f-45df-9aae-a3974cadfca1" /> 
-)
+<img width="1491" alt="Overview Analysis" src="https://github.com/user-attachments/assets/5f8ec7da-0c8f-45df-9aae-a3974cadfca1">
 
 ### Transaction Dashboard
 
-[Dashboard Transaction](<img width="1483" height="783" alt="Transaction Record" src="https://github.com/user-attachments/assets/69bd2be2-038b-47bd-aca8-2cac1c0c743e" />
-)
+<img width="1483" alt="Transaction Record" src="https://github.com/user-attachments/assets/69bd2be2-038b-47bd-aca8-2cac1c0c743e">
 
 ---
 
